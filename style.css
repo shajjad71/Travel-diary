@@ -111,13 +111,12 @@ body {
     margin-bottom: 0;
   }
   
-  /* COMMON DESIGN  */
-   .h1, .h3 {
+  /* Common DESIGN  */
+   .cool-things  {
     text-align: center;
     color: #413960;
-    font-weight: 700;
-    margin-bottom: 40px;
-    padding: 40px;
+    font-weight: 500;
+    padding: 10px 10px;
   } 
   .common-btn {
     padding: 6px 24px;
